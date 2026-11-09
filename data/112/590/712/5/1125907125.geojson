@@ -55,7 +55,7 @@
     },
     "wof:country":"IS",
     "wof:created":1497296025,
-    "wof:geomhash":"0f9c657106adfa073b05c600f4943c49",
+    "wof:geomhash":"cbc186eae69bac51e3016ce0751542e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     -13.9333675,
     65.0601165
 ],
-  "geometry": {"coordinates":[-13.9333675,65.06011650000001],"type":"Point"}
+  "geometry": {"coordinates":[-13.933367,65.060117],"type":"Point"}
 }

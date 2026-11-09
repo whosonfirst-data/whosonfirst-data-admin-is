@@ -64,7 +64,7 @@
         "wk:page":"Fagurh%C3%B3lsm%C3%BDri"
     },
     "wof:country":"IS",
-    "wof:geomhash":"76b289697c6aa0d3bc1cecab10c9179f",
+    "wof:geomhash":"d70acd18fb13b81d08f6dca98e3f615d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     -16.64879,
     63.87733000000001
 ],
-  "geometry": {"coordinates":[-16.64879,63.87733000000001],"type":"Point"}
+  "geometry": {"coordinates":[-16.64879,63.87733],"type":"Point"}
 }

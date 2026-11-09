@@ -57,7 +57,7 @@
         "wk:page":"Arnarstapi"
     },
     "wof:country":"IS",
-    "wof:geomhash":"9a99030e32a3834edfd385754cb6c3d5",
+    "wof:geomhash":"3ea841e9b3b1a0b39d54af05a371dea7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -84,5 +84,5 @@
     -23.62258,
     64.76935999999999
 ],
-  "geometry": {"coordinates":[-23.62258,64.76935999999999],"type":"Point"}
+  "geometry": {"coordinates":[-23.62258,64.76936],"type":"Point"}
 }
